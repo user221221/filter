@@ -8,7 +8,8 @@
 ||graph.facebook.com^$app=kr.co.nowcom.mobile.afreeca
 ||googletagmanager.com^$app=kr.co.nowcom.mobile.afreeca
 ||firebaselogging.googleapis.com^$app=kr.co.nowcom.mobile.afreeca
-||firebaseremoteconfig.googleapis.com^$important,app=kr.co.nowcom.mobile.afreeca
+||nelo2-col.navercorp.com^
+||collector1.sooplive.co.kr^
 
 ! 피온북
 ||appiersig.com^$app=com.hong.fo4book
