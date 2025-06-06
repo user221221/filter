@@ -5,5 +5,8 @@
 !펨코 상단 최근 방문
 m.fmkorea.com##div.fm-recent-visited.recent-swiper
 
+!펨코 아프리카 vod 차단
+##div[class="video-container"]:has(iframe[src^="https://vod.sooplive.co.kr"])
+
 !네이버 차단
 m.naver.com$$div[id="MM_search_container"]
