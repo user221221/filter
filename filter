@@ -32,3 +32,4 @@
 ||ampproject.org^$important,app=com.sec.android.app.sbrowser,removeparam
 ||kr-col-ext.nelo.navercorp.com^$important
 ||firebaselogging.googleapis.com^$important
+||firebaseremoteconfig.googleapis.com^
