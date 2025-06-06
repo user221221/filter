@@ -8,11 +8,7 @@
 ||graph.facebook.com^$app=kr.co.nowcom.mobile.afreeca
 ||googletagmanager.com^$app=kr.co.nowcom.mobile.afreeca
 ||firebaselogging.googleapis.com^$app=kr.co.nowcom.mobile.afreeca
-||iflv14.sooplive.co.kr^$app=kr.co.nowcom.mobile.afreeca
-||stimg.sooplive.co.kr^$app=kr.co.nowcom.mobile.afreeca
-||affslb.sooplive.co.kr^$app=kr.co.nowcom.mobile.afreeca
 ||firebaseremoteconfig.googleapis.com^$important,app=kr.co.nowcom.mobile.afreeca
-||firebaselogging-pa.googleapis.com^$app=kr.co.nowcom.mobile.afreeca
 
 ! 피온북
 ||appiersig.com^$app=com.hong.fo4book
@@ -32,4 +28,3 @@
 ||ampproject.org^$important,app=com.sec.android.app.sbrowser,removeparam
 ||kr-col-ext.nelo.navercorp.com^$important
 ||firebaselogging.googleapis.com^$important
-||firebaseremoteconfig.googleapis.com^
