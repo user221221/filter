@@ -9,4 +9,4 @@ m.fmkorea.com##div.fm-recent-visited.recent-swiper
 ##div[class="video-container"]:has(iframe[src^="https://vod.sooplive.co.kr"])
 
 !네이버 차단
-m.naver.com$$div[id="MM_search_container"]
+naver.com###MM_search_container
