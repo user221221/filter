@@ -10,16 +10,8 @@
 ||collector1.sooplive.co.kr^
 
 ! 피온북
-||googletagservices.com^$important,app=com.hong.fo4book
-||abr.ge^$important,app=com.hong.fo4book
-||appiersig.com^$important,app=com.hong.fo4book
-||ss-sg.appiersig.com^$app=com.hong.fo4book
-||mt-usw.appiersig.com^$app=com.hong.fo4book
-||imasdk.googleapis.com^$app=com.hong.fo4book
-||googletagservices.com^$app=com.hong.fo4book
-||signaler-pa.clients6.google.com^$domain=gemini.google.com
-||nid.naver.com^$app=com.hong.fo4book
-||firebasestorage.googleapis.com^$app=com.hong.fo4book
+||appiersig.com^
+||abr.ge^
 
 ! 네이버웹툰
 ||shared-comic.pstatic.net^
