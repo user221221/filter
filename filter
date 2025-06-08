@@ -5,16 +5,12 @@
 
 ! 아프리카
 ||connect.facebook.net^$app=kr.co.nowcom.mobile.afreeca
-||graph.facebook.com^$app=kr.co.nowcom.mobile.afreeca
-||googletagmanager.com^$app=kr.co.nowcom.mobile.afreeca
 ||firebaselogging.googleapis.com^$app=kr.co.nowcom.mobile.afreeca
 ||nelo2-col.navercorp.com^
 ||collector1.sooplive.co.kr^
 
 ! 피온북
 ||appiersig.com^$app=com.hong.fo4book
-||web.facebook.com^$app=com.hong.fo4book
-||facebook.com^$app=com.hong.fo4book
 ||abr.ge^$app=com.hong.fo4book
 
 ! 네이버웹툰
@@ -23,7 +19,6 @@
 ||nelo2-col.navercorp.com^$app=com.nhn.android.webtoon
 
 ! 나머지
-||googletagmanager.com^$important,third-party,removeparam
 ||ampproject.org^$important,app=com.sec.android.app.sbrowser,removeparam
 ||kr-col-ext.nelo.navercorp.com^$important
 ||firebaselogging.googleapis.com^$important
