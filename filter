@@ -4,21 +4,21 @@
 
 
 ! 아프리카
-||connect.facebook.net^$app=kr.co.nowcom.mobile.afreeca
-||firebaselogging.googleapis.com^$app=kr.co.nowcom.mobile.afreeca
+||connect.facebook.net^
+||firebaselogging.googleapis.com^
 ||nelo2-col.navercorp.com^
 ||collector1.sooplive.co.kr^
 
 ! 피온북
-||appiersig.com^$app=com.hong.fo4book
-||abr.ge^$app=com.hong.fo4book
+||appiersig.com^
+||abr.ge^
 
 ! 네이버웹툰
-||shared-comic.pstatic.net^$app=com.nhn.android.webtoon
-||api.appnotice.naver.com^$app=com.nhn.android.webtoon
-||nelo2-col.navercorp.com^$app=com.nhn.android.webtoon
+||shared-comic.pstatic.net^
+||api.appnotice.naver.com^
+||nelo2-col.navercorp.com^
 
 ! 나머지
-||ampproject.org^$important,app=com.sec.android.app.sbrowser,removeparam
-||kr-col-ext.nelo.navercorp.com^$important
-||firebaselogging.googleapis.com^$important
+||ampproject.org^
+||kr-col-ext.nelo.navercorp.com^
+||firebaselogging.googleapis.com^
