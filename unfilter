@@ -4,7 +4,7 @@
 
 !펨코 상단 최근 방문
 m.fmkorea.com##div.fm-recent-visited.recent-swiper
-
+m.fmkorea.com##.swiper-backface-hidden.swiper-ios.swiper-free-mode.swiper-horizontal.swiper-initialized.mobile.recent-swiper.fm-recent-visited
 !펨코 아프리카 vod 차단
 ##div[class="video-container"]:has(iframe[src^="https://vod.sooplive.co.kr"])
 
