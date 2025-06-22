@@ -1,0 +1,24 @@
+! Title: dc app
+! Description: dc 광고 루팅용
+! Homepage: https://github.com/user221221/filter
+
+
+루팅용
+||app.dcinside.com/api/_ad_search_link*.php
+||json2.dcinside.com/json0/app_ad_setting.php^
+||firebaselogging*-pa.googleapis.com^$app=com.dcinside.app.android
+||liftoff.io^$domain=googleads.g.doubleclick.net,important,app=com.dcinside.app.android,removeparam
+||signaler-pa.clients6.google.com^$domain=gemini.google.com
+||wcs.naver.com^$domain=dcinside.com,app=com.dcinside.app.android
+||adsmoloco.com^$app=com.dcinside.app.android
+||cdn-f.adsmoloco.com^$app=com.dcinside.app.android
+||csi.gstatic.com^$domain=googleads.g.doubleclick.net,app=com.dcinside.app.android
+||adexp.liftoff.io^$domain=googleads.g.doubleclick.net,app=com.dcinside.app.android
+||cdn.liftoff-creatives.io/customers/$domain=googleads.g.doubleclick.net,app=com.dcinside.app.android
+||impression-asia.liftoff.io^$domain=googleads.g.doubleclick.net,app=com.dcinside.app.android
+||display.ad.daum.net^$app=com.dcinside.app.android
+||ssl.pstatic.net^$app=com.dcinside.app.android
+||click.liftoff.io^$domain=googleads.g.doubleclick.net,app=com.dcinside.app.android
+||cdn-f.adsmoloco.com^$app=com.dcinside.app.android
+||app.dcinside.com/api/_naverad^$empty
+||adcr.naver.com^$all
